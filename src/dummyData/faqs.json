@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Device Installation",
+        "path": "devInst"
+    },
+    {
+        "name": "Device Shipping",
+        "path": "devship"
+    }
+]

@@ -1,0 +1,7 @@
+{
+  "name": "supportApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

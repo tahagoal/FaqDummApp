@@ -1,0 +1,75 @@
+{
+  "faqs": [
+    {
+      "id" : 1,
+      "name": "Device Installation",
+      "path": "devInst"
+    },
+    {
+      "id" : 2,
+      "name": "Device Shipping",
+      "path": "devship"
+    },
+    {
+      "id" : 3,
+      "name": "Billing",
+      "path": "bill"
+    },
+    {
+      "id" : 4,
+      "name": "Application",
+      "path": "app"
+    },
+    {
+      "id" : 5,
+      "name": "Others",
+      "path": "other"
+    }
+  ],
+
+  "faqDetails": [
+    {
+      "id": 1,
+      "name":"Device Installation",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Where do I install the device?",
+          "details" : "It is different for every vehicle but the OBDII port should be found on the driver’s side underneath the dash."
+        },
+        {
+          "id": 2,
+          "text": "The device beeps when I Install it",
+          "details" : "Details 2"
+        },
+        {
+          "id": 3,
+          "text": "How do I secure the device?",
+          "details" : "Details 3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name":"Device Shipping",
+      "questions": [
+        {
+          "id": 1,
+          "text": "How is my bill calculated?",
+          "details" : "Billing is calculated based upon your mileage driven in a month."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name":"Billing",
+      "questions": [
+        {
+          "id": 1,
+          "text": "How is my bill calculated?",
+          "details" : "Billing is calculated based upon your mileage driven in a month."
+        }
+      ]
+    }
+  ]
+}

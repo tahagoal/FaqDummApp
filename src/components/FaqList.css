@@ -1,0 +1,16 @@
+.red-inner *{
+    color: red;
+}
+
+.no-line ion-item {
+    --border-width: 0;
+    --inner-border-width: 0;
+}
+
+.no-line *{
+    text-decoration: none;
+}
+
+.font20{
+    font-size: 20px;
+}
